@@ -1,0 +1,17 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^3.0.0-alpha.11",
+    "vue": "^3.2.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.4",
+    "vite": "^2.6.14"
+  }
+}
